@@ -1,0 +1,21 @@
+.ant-layout {
+  height: 100vh;
+}
+.ant-layout-header {
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  padding: 0 24px;
+  display: flex;
+  align-items: center;
+  height: 56px;
+}
+.ant-layout-content {
+  background: #f5f6fa;
+  padding: 16px;
+  min-height: 0;
+}
+.ant-layout-sider {
+  background: #fff;
+  border-left: 1px solid #eee;
+  padding: 16px 8px 0 8px;
+} 

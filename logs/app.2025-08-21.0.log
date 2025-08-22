@@ -1,0 +1,117 @@
+2025-08-21 09:27:55 - c.e.n.NewsAssistantApplication - Starting NewsAssistantApplication using Java 11.0.12 on LAPTOP-8RBKRIIT with PID 23008 (E:\prework\news-assistant-combine\news-assistant-backend\target\classes started by 86158 in E:\prework\news-assistant-combine)
+2025-08-21 09:27:55 - c.e.n.NewsAssistantApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-21 09:27:59 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3001 (http)
+2025-08-21 09:27:59 - o.a.c.core.AprLifecycleListener - An older version [1.2.25] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.38]
+2025-08-21 09:27:59 - o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2025-08-21 09:27:59 - o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2025-08-21 09:27:59 - o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-08-21 09:27:59 - o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2025-08-21 09:27:59 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-21 09:27:59 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-08-21 09:27:59 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-21 09:27:59 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3722 ms
+2025-08-21 09:28:01 - o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2025-08-21 09:28:01 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 3001 (http) with context path ''
+2025-08-21 09:28:01 - c.e.n.NewsAssistantApplication - Started NewsAssistantApplication in 6.326 seconds (JVM running for 7.478)
+2025-08-21 09:30:43 - c.e.n.NewsAssistantApplication - Starting NewsAssistantApplication using Java 11.0.12 on LAPTOP-8RBKRIIT with PID 21120 (E:\prework\news-assistant-combine\news-assistant-backend\target\classes started by 86158 in E:\prework\news-assistant-combine)
+2025-08-21 09:30:43 - c.e.n.NewsAssistantApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-21 09:30:47 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3001 (http)
+2025-08-21 09:30:47 - o.a.c.core.AprLifecycleListener - An older version [1.2.25] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.38]
+2025-08-21 09:30:47 - o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2025-08-21 09:30:47 - o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2025-08-21 09:30:47 - o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-08-21 09:30:47 - o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2025-08-21 09:30:47 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-21 09:30:47 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-08-21 09:30:48 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-21 09:30:48 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 4731 ms
+2025-08-21 09:30:49 - o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2025-08-21 09:30:50 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 3001 (http) with context path ''
+2025-08-21 09:30:50 - c.e.n.NewsAssistantApplication - Started NewsAssistantApplication in 7.868 seconds (JVM running for 9.098)
+2025-08-21 09:32:31 - c.e.n.NewsAssistantApplication - Starting NewsAssistantApplication using Java 11.0.12 on LAPTOP-8RBKRIIT with PID 20184 (E:\prework\news-assistant-combine\news-assistant-backend\target\classes started by 86158 in E:\prework\news-assistant-combine)
+2025-08-21 09:32:31 - c.e.n.NewsAssistantApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-21 09:32:34 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3001 (http)
+2025-08-21 09:32:34 - o.a.c.core.AprLifecycleListener - An older version [1.2.25] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.38]
+2025-08-21 09:32:34 - o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2025-08-21 09:32:34 - o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2025-08-21 09:32:34 - o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-08-21 09:32:34 - o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2025-08-21 09:32:34 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-21 09:32:34 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-08-21 09:32:35 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-21 09:32:35 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3757 ms
+2025-08-21 09:32:36 - o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2025-08-21 09:32:36 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 3001 (http) with context path ''
+2025-08-21 09:32:36 - c.e.n.NewsAssistantApplication - Started NewsAssistantApplication in 6.176 seconds (JVM running for 7.163)
+2025-08-21 09:37:38 - c.e.n.NewsAssistantApplication - Starting NewsAssistantApplication using Java 11.0.12 on LAPTOP-8RBKRIIT with PID 13908 (E:\prework\news-assistant-combine\news-assistant-backend\target\classes started by 86158 in E:\prework\news-assistant-combine)
+2025-08-21 09:37:38 - c.e.n.NewsAssistantApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-21 09:37:44 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3001 (http)
+2025-08-21 09:37:44 - o.a.c.core.AprLifecycleListener - An older version [1.2.25] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.38]
+2025-08-21 09:37:44 - o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2025-08-21 09:37:44 - o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2025-08-21 09:37:44 - o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-08-21 09:37:44 - o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2025-08-21 09:37:44 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-21 09:37:44 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-08-21 09:37:44 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-21 09:37:44 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5937 ms
+2025-08-21 09:37:46 - o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2025-08-21 09:37:46 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 3001 (http) with context path ''
+2025-08-21 09:37:46 - c.e.n.NewsAssistantApplication - Started NewsAssistantApplication in 8.855 seconds (JVM running for 10.013)
+2025-08-21 09:37:55 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-21 09:37:55 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-21 09:37:55 - o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2025-08-21 09:55:46 - c.e.n.NewsAssistantApplication - Starting NewsAssistantApplication using Java 11.0.12 on LAPTOP-8RBKRIIT with PID 9108 (E:\prework\news-assistant-combine\news-assistant-backend\target\classes started by 86158 in E:\prework\news-assistant-combine)
+2025-08-21 09:55:46 - c.e.n.NewsAssistantApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-21 09:55:51 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3001 (http)
+2025-08-21 09:55:51 - o.a.c.core.AprLifecycleListener - An older version [1.2.25] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.38]
+2025-08-21 09:55:51 - o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2025-08-21 09:55:51 - o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2025-08-21 09:55:51 - o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-08-21 09:55:51 - o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2025-08-21 09:55:51 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-21 09:55:51 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-08-21 09:55:51 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-21 09:55:51 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5583 ms
+2025-08-21 09:55:53 - o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2025-08-21 09:55:54 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 3001 (http) with context path ''
+2025-08-21 09:55:54 - c.e.n.NewsAssistantApplication - Started NewsAssistantApplication in 8.806 seconds (JVM running for 9.957)
+2025-08-21 09:56:00 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-21 09:56:00 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-21 09:56:00 - o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-08-21 09:56:52 - c.e.n.NewsAssistantApplication - Starting NewsAssistantApplication using Java 11.0.12 on LAPTOP-8RBKRIIT with PID 13248 (E:\prework\news-assistant-combine\news-assistant-backend\target\classes started by 86158 in E:\prework\news-assistant-combine)
+2025-08-21 09:56:52 - c.e.n.NewsAssistantApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-21 09:56:57 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3001 (http)
+2025-08-21 09:56:57 - o.a.c.core.AprLifecycleListener - An older version [1.2.25] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.38]
+2025-08-21 09:56:57 - o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2025-08-21 09:56:57 - o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2025-08-21 09:56:57 - o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-08-21 09:56:57 - o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2025-08-21 09:56:57 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-21 09:56:57 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-08-21 09:56:58 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-21 09:56:58 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5283 ms
+2025-08-21 09:56:59 - o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2025-08-21 09:57:00 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 3001 (http) with context path ''
+2025-08-21 09:57:00 - c.e.n.NewsAssistantApplication - Started NewsAssistantApplication in 8.241 seconds (JVM running for 9.111)
+2025-08-21 09:57:04 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-21 09:57:04 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-21 09:57:04 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-08-21 09:59:22 - c.e.n.NewsAssistantApplication - Starting NewsAssistantApplication using Java 11.0.12 on LAPTOP-8RBKRIIT with PID 12316 (E:\prework\news-assistant-combine\news-assistant-backend\target\classes started by 86158 in E:\prework\news-assistant-combine)
+2025-08-21 09:59:22 - c.e.n.NewsAssistantApplication - No active profile set, falling back to 1 default profile: "default"
+2025-08-21 09:59:28 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3001 (http)
+2025-08-21 09:59:28 - o.a.c.core.AprLifecycleListener - An older version [1.2.25] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.38]
+2025-08-21 09:59:28 - o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.25] using APR version [1.7.0].
+2025-08-21 09:59:28 - o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2025-08-21 09:59:28 - o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-08-21 09:59:28 - o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2025-08-21 09:59:28 - o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-08-21 09:59:28 - o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-08-21 09:59:28 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-08-21 09:59:28 - o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5911 ms
+2025-08-21 09:59:30 - o.s.b.a.e.web.EndpointLinksResolver - Exposing 1 endpoint(s) beneath base path '/actuator'
+2025-08-21 09:59:30 - o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 3001 (http) with context path ''
+2025-08-21 09:59:30 - c.e.n.NewsAssistantApplication - Started NewsAssistantApplication in 9.148 seconds (JVM running for 10.318)
+2025-08-21 09:59:37 - o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-21 09:59:37 - o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-08-21 09:59:37 - o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
